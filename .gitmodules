@@ -1,3 +1,6 @@
 [submodule "MarketCommons-Racket"]
 	path = MarketCommons
 	url = https://monsterware.dev/kibimon/MarketCommons-Racket.git
+[submodule "Elstob-font"]
+	path = docs/Fonts/Elstob
+	url = https://github.com/psb1558/Elstob-font
